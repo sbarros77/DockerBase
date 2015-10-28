@@ -1,1 +1,1 @@
-# baseJava8
+# Docker Java 8 Base Image
